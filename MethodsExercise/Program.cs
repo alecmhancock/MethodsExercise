@@ -54,7 +54,7 @@
             Console.WriteLine("Please see the prompts below for a new task." + "\n");
 
 
-            //lord forgive me for the inefficiency I'm about to write
+            //userInput section
 
             Console.WriteLine("Please give me a name of a pet.");
             var pet = Console.ReadLine();
